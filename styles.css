@@ -1,0 +1,85 @@
+.card-promocao {
+        color: #5CA720;
+}
+
+.car {
+
+        display: flex;
+        justify-content: center;
+
+
+}
+
+.im {
+        width: 200px;
+        margin: 10px;
+        position: relative;
+        text-align: left;
+
+}
+
+.ins {
+        width: 200px;
+        color: aliceblue;
+        background-color: #5CA720;
+        text-align: center;
+
+}
+
+.texto {
+        display: flex;
+        align-items: right;
+
+}
+
+.fotoinsta {
+        position: flex;
+        width: 33.48px;
+        height: 33.48px;
+        left: 71px;
+        top: 2296.01px;
+
+
+}
+
+.fotoface {
+        position: flex;
+        width: 33.48px;
+        height: 33.48px;
+        left: 71px;
+        top: 2296.01px;
+
+}
+
+.master {
+        position: absolute;
+        width: 28.14px;
+        height: 34.81px;
+        right: 230.86px;
+               
+}
+
+.carder {
+        position: absolute;
+        width: 28.14px;
+        height: 34.81px;
+        right: 202.67px;
+              
+}
+
+.pay {
+        position: flex;
+        width: 28.14px;
+        height: 34.81px;
+        right: 230.86px;
+               
+}
+.visa{
+        
+        position: flex;
+        width: 28.14px;
+        height: 34.81px;
+        right: 230.86px;
+       
+               
+}
